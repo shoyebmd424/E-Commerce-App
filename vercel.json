@@ -1,10 +1,15 @@
 {
-    "version": 1,
+    "version": 2,
     "builds": [
       {
         "src": "index.js",
         "use": "@now/node"
+      },
+      {
+        "src": "../clinet/build",  
+        "use": "@vercel/static"
       }
+  
     ],
     "routes": [
       {
