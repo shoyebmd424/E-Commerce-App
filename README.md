@@ -55,8 +55,8 @@
 <br>
 <h1>Category and product</h1>
 <p float="left">
- <img alt="Home Image" src="https://github.com/shoyebmd424/E-Commerce-App/blob/main/client/public/github-image/category.png" width="40%" >
-  <img alt="Home Image" src="https://github.com/shoyebmd424/E-Commerce-App/blob/main/client/public/github-image/category.png" width="40%">
+ <img alt="Home Image" src="https://github.com/shoyebmd424/E-Commerce-App/blob/main/client/public/github-image/category.png" width="49%" >
+  <img alt="Home Image" src="https://github.com/shoyebmd424/E-Commerce-App/blob/main/client/public/github-image/product.png" width="49%">
 </p>
 
 <h1>login</h1>
