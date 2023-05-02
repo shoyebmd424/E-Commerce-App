@@ -53,7 +53,8 @@
 <h1>Admin Dashboard</h1>
 <img alt="Home Image" src="https://github.com/shoyebmd424/E-Commerce-App/blob/main/client/public/github-image/adminDashboard.png" width="80%">
 <br>
-<h1>Category</h1>
-<img alt="Home Image" src="https://github.com/shoyebmd424/E-Commerce-App/blob/main/client/public/github-image/category.png" width="80%">
+<h1>Category and product</h1>
+<img alt="Home Image" src="https://github.com/shoyebmd424/E-Commerce-App/blob/main/client/public/github-image/category.png" width="40%">
+<img alt="Home Image" src="https://github.com/shoyebmd424/E-Commerce-App/blob/main/client/public/github-image/category.png" width="40%">
 <h1>login</h1>
 <img alt="Home Image" src="https://github.com/shoyebmd424/E-Commerce-App/blob/main/client/public/github-image/login.png" width="80%">
